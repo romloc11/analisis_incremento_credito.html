@@ -43,9 +43,3 @@ Y asigna una decisión:
 - Excel (input/output)
 - Scoring rules
 
----
-
-## 📊 Ejemplo Visual
-
-![Preview](images/foto_incremento.png)
-
