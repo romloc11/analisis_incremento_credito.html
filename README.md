@@ -1,4 +1,4 @@
-# 📈 Análisis Automatizado de Incremento de Crédito
+# Análisis Automatizado de Incremento de Crédito
 
 Sistema desarrollado en **Python** para evaluar el comportamiento histórico
 de clientes y definir decisiones automáticas sobre el límite de crédito:
@@ -9,7 +9,7 @@ scoring y métricas de riesgo.
 
 ---
 
-## 🧠 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 - Automatizar decisiones de crédito
 - Reducir riesgo financiero
@@ -18,7 +18,7 @@ scoring y métricas de riesgo.
 
 ---
 
-## ⚙️ Lógica de Decisión
+## Lógica de Decisión
 
 El sistema evalúa variables como:
 
@@ -29,14 +29,13 @@ El sistema evalúa variables como:
 - Límite actual
 
 Y asigna una decisión:
-- ✅ Incremento
-- ⚠️ Revisión manual
-- ➖ Mantener
-- ❌ Decremento
+-  Incremento
+-  Decremento
+-  Sin cambio
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - Python
 - Pandas
@@ -50,10 +49,3 @@ Y asigna una decisión:
 
 ![Preview](images/foto_incremento.png)
 
----
-
-## 🚀 Uso
-
-```bash
-pip install -r requirements.txt
-python analisis_incremento_credito.py
